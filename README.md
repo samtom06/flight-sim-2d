@@ -52,7 +52,7 @@ These map directly to the corresponding bullet points on my resume.
 
 ## File Structure
 
-'''
+```
 flight-sim-2d/
 ├─ scripts/
 │  └─ run_sim.py                  # entry point for quick runs
@@ -73,7 +73,7 @@ flight-sim-2d/
 ├─ pyproject.toml
 ├─ .gitignore
 └─ README.md
-'''
+```
 
 Quick links: [`scripts/run_sim.py`](scripts/run_sim.py) • [`src/flight2d/cli.py`](src/flight2d/cli.py)
 
