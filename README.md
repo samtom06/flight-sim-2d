@@ -1,5 +1,8 @@
 # Aircraft Flight Path Simulation with Aerodynamic Drag
 
+Physics-based 2D aircraft simulation with aerodynamic drag modeling and trajectory analysis.
+
+
 ---
 
 ## Table of Contents
