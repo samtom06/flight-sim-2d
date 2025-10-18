@@ -82,8 +82,12 @@ Quick links: [`scripts/run_sim.py`](scripts/run_sim.py) • [`src/flight2d/cli.p
 
 ---
 
-## Results (Placeholders)
-> Replace the commented image tags below with live figures when ready (remove `<!--` and `-->`).
+## Results
+
+| Trajectory (Position) | Speed vs Time |
+|---|---|
+| ![](figures/baseline_traj.png) | ![](figures/baseline_speed.png) |
+
 
 | Trajectory (Position) | Speed vs Time |
 |---|---|
