@@ -142,6 +142,11 @@ Run with defaults:
 python -m flight2d.cli
 ```
 
+Run with custom parameters:
+```bash
+python -m flight2d.cli --t-max 60 --speed0 70 --gamma0-deg 10 --model polar --pitch-deg 15
+```
+
 
 
 
