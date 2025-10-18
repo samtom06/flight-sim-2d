@@ -125,4 +125,20 @@ source venv/bin/activate
 pip install -e .
 
 # 3) Run a baseline simulation
-python scripts/run_sim.py
+python scripts/run_sim.py 
+```
+
+---
+
+### CLI Usage
+
+Display help:
+```bash
+python -m flight2d.cli --help
+```
+
+
+
+
+
+
