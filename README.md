@@ -155,12 +155,19 @@ Planned enhancements to increase model fidelity, usability, and visualization:
 - Add wind effects (headwind, crosswind, turbulence)
 - Introduce lift and angle-of-attack modeling for full aerodynamic behavior
 - Support parameterized thrust curves and fuel burn mass reduction
-- Add YAML/JSON config file support for reusable simulations
+- Add input configuration files (YAML/JSON) to define simulation parameters
 - Export results as CSV/Parquet for data analysis workflows
 - Add Monte Carlo simulation mode for sensitivity analysis
 - Improve live visualization (speed indicator, altitude tracker)
 - Package for pip installation and publish to PyPI
 
+---
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project for educational or research purposes, with appropriate credit.
+
+See the `LICENSE` file for full license text.
 
 
 
