@@ -137,6 +137,11 @@ Display help:
 python -m flight2d.cli --help
 ```
 
+Run with defaults:
+```bash
+python -m flight2d.cli
+```
+
 
 
 
