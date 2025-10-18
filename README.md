@@ -89,8 +89,8 @@ Quick links: [`scripts/run_sim.py`](scripts/run_sim.py) • [`src/flight2d/cli.p
 | ![](figures/baseline_traj.png) | ![](figures/baseline_speed.png) |
 
 
-**Notes (example text to keep):**
-- *Trajectory:* shows 2-D flight path under gravity and drag.  
+**Notes**
+- *Trajectory:* shows 2-D flight path under gravity and drag.
 - *Speed:* decays over time as aerodynamic drag reduces velocity; the deceleration rate decreases as speed drops.
 
 ---
