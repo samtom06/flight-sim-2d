@@ -147,6 +147,19 @@ Run with custom parameters:
 python -m flight2d.cli --t-max 60 --speed0 70 --gamma0-deg 10 --model polar --pitch-deg 15
 ```
 
+---
+
+## Future Improvements
+Planned enhancements to increase model fidelity, usability, and visualization:
+
+- Add wind effects (headwind, crosswind, turbulence)
+- Introduce lift and angle-of-attack modeling for full aerodynamic behavior
+- Support parameterized thrust curves and fuel burn mass reduction
+- Add YAML/JSON config file support for reusable simulations
+- Export results as CSV/Parquet for data analysis workflows
+- Add Monte Carlo simulation mode for sensitivity analysis
+- Improve live visualization (speed indicator, altitude tracker)
+- Package for pip installation and publish to PyPI
 
 
 
